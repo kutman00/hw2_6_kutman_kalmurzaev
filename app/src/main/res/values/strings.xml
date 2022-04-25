@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">hw_6_kutman_kalmurzaev</string>
+    <string name="button">Войти</string>
+    <string name="password">Введите пароль</string>
+    <string name="username">Введите вашу почту</string>
+    <string name="open">Выполните вход или зарегистрируйтесь</string>
+    <string name="hello">Добро пожаловать!</string>
+    <string name="text2">Вход</string>
+    <string name="title_activity_2">Activity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="text_click">Нажмите сюда</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="sign_in">Выполните вход или зарегистрируйтесь.</string>
+    <string name="welcome">Добро пожаловать!</string>
+</resources>
